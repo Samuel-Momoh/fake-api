@@ -2,15 +2,18 @@
     "users": [
       {
         "id": 1,
-        "name": "Samuel Momoh"
+        "name": "Samuel Momoh",
+        "gravatar": "https://avatars0.githubusercontent.com/u/6996211?v=3&s=64"
       },
       {
         "id": 2,
-        "name": "james Sundy"
+        "name": "james Sundy",
+        "gravatar": "https://avatars2.githubusercontent.com/u/12699680?v=3&s=64"
       },
       {
         "id": 3,
-        "name": "Philip Sunday"
+        "name": "Philip Sunday",
+        "gravatar": "https://avatars3.githubusercontent.com/u/3774853?v=3&s=64"
       }
     ],
     "comments": [
